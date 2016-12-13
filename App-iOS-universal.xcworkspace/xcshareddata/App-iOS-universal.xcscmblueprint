@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0E78D69C9AEC4687A57B342CB7F921892F8C0A06",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FDAA3A0C0B5E669B6A1F5BC81EEF4DF92420180A" : 9223372036854775807,
+    "0E78D69C9AEC4687A57B342CB7F921892F8C0A06" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5FCA054F-612C-4E44-A350-450815B58014",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FDAA3A0C0B5E669B6A1F5BC81EEF4DF92420180A" : "..\/Desktop\/prpr",
+    "0E78D69C9AEC4687A57B342CB7F921892F8C0A06" : "app_ios_ind\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "App-iOS-universal",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "App-iOS-universal.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Tahlia-rt\/app_ios_ind",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0E78D69C9AEC4687A57B342CB7F921892F8C0A06"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Tahlia-rt\/web_jsp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDAA3A0C0B5E669B6A1F5BC81EEF4DF92420180A"
+    }
+  ]
+}
