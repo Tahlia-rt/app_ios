@@ -51,7 +51,9 @@ class AddTaskViewController: UIViewController {
             (UIApplication.shared.delegate as! AppDelegate).saveContext()
             
             //전 뷰로 되돌아감
-            navigationController!.popViewController(animated: true)
+//            navigationController!.popViewController(animated: true)
+            
+          performSegue(withIdentifier: "unwindToList", sender: self)
             
             
             
