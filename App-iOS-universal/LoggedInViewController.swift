@@ -22,11 +22,11 @@ class LoggedInViewController: UIViewController {
             do{
                 try FIRAuth.auth()?.signOut()
                 
-                //self.performSegue(withIdentifier: "toLogin", sender: self)
+                performSegue(withIdentifier: "toLogin", sender: self)
                 
                 
-                let vc = UIStoryboard(name: "Login", bundle: nil).instantiateViewController(withIdentifier: "Login")
-                present(vc, animated: true, completion: nil)
+//                let vc = UIStoryboard(name: "Login", bundle: nil).instantiateViewController(withIdentifier: "Login")
+//                present(vc, animated: true, completion: nil)
                 
             }catch let error as NSError {
                 print(error.localizedDescription)
